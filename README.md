@@ -57,3 +57,7 @@ The detection of lung cancer stands as a critical global health priority, emphas
 1.	Implement techniques like hyperparameter tuning and data augmentation to improve performance.
 2.	Explore ensemble learning approaches by combining multiple models for enhanced accuracy.
 3.	Consider incorporating explainability methods like SHAP values for transparency and trust.
+
+![Screenshot (27)](https://github.com/imankit1234/Lund-Nodule-Detection-Using-UNet-and-DenseNetsing-/assets/127622472/1805e687-5623-41b5-a1c5-db0303352829)
+
+
