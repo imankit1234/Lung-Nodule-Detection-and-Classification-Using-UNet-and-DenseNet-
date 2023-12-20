@@ -1,4 +1,4 @@
-# Lund-Nodule-Detection-Using-UNet-and-DenseNetsing-
+# Lung-Nodule-Detection-Using-UNet-and-DenseNetsing-
 Achieved an accuracy of 99.96 % on Luna-16 dataset .
 
 3. Problem Statement
